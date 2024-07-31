@@ -1,0 +1,39 @@
+0 0% 98% 1  --> main Heading color hsl
+240 5% 65% 1 --> text content color hsl
+240 5% 65% 1 --> button text content color hsl
+
+
+font-family: var(--font-geist-sans),ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+
+======================== White button =========================
+
+0 0% 98%        --> button background color hsl
+240 3.7% 15.9%  --> button border color hsl
+240 5.9% 10%    --> button text color hsl
+0.5rem          --> border radius 
+
+font-weight: 500;
+font-size: .875rem;
+line-height: 1.25rem;
+padding-bottom: .5rem;
+padding-top: .5rem;
+padding-left: 1rem;
+padding-right: 1rem;
+
+
+======================== Black button ==========================
+
+240 10% 3.9%    --> button background color hsl
+240 3.7% 15.9%  --> button border color hsl
+0 0% 98%        --> button text color hsl
+0.5rem          --> border radius
+
+font-weight: 500;
+font-size: .875rem;
+line-height: 1.25rem;
+padding-bottom: .5rem;
+padding-top: .5rem;
+padding-left: 1rem;
+padding-right: 1rem;
+
+
